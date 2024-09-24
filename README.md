@@ -8,11 +8,15 @@ Order Processing: Users can repeatedly add items to their order by inputting the
 Order Validation: If the user inputs an item that is not available in the menu, an error message is shown.
 Loop for Multiple Items: The program runs in a loop, allowing users to add as many items as they wish until they decide to stop.
 Total Cost Calculation: The system keeps track of the total cost of the items ordered and displays the total amount to be paid at the end.
+
+
 Key Concepts:
 Python Data Structures: Utilizes a dictionary to store menu items and their corresponding prices.
 Input Handling: Takes user input to determine which items are being ordered.
 Loops: A while loop is used to repeatedly ask the user for items until they choose to stop.
 Conditional Statements: Used for checking whether the item is in the menu and whether the user wants to continue adding more items.
+
+
 How to Run:
 Run the Python script.
 The menu will be displayed, and the user will be prompted to input an order.
